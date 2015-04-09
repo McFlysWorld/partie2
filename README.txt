@@ -1,6 +1,8 @@
+SOMMAIRE
+
 Utilisation de Git et GitHub
 
-1) Création d'un repository
-2) Création d'une page web
-3) Enregistrement des différentes versions.
+1) CrÃ©ation d'un repository
+2) CrÃ©ation d'une page web
+3) Enregistrement des diffÃ©rentes versions.
 4) Sauvegardes vers GitHub
